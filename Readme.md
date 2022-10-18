@@ -1,0 +1,2 @@
+- Required NodeJS version v14.17.3 installed
+- `npm install` then run `npm run dev`
